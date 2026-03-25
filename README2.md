@@ -89,3 +89,14 @@ Antes de rodar o projeto, instale:
 
 ```bash
 java -version
+
+```
+### Node.js
+
+node -v
+npm -v
+```
+
+### Docker
+docker -v
+docker-compose -v
