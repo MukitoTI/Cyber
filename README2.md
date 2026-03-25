@@ -92,11 +92,13 @@ java -version
 
 ```
 ### Node.js
-
+```bash
 node -v
 npm -v
 ```
 
 ### Docker
+```
 docker -v
 docker-compose -v
+```
