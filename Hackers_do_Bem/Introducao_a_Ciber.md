@@ -114,6 +114,35 @@ Os vírus podem se espalhar em um computador através de várias maneiras,  como
 | **Trojans** | Disfarçados como software legítimo, os cavalos de Troia enganam os usuários para que os executem, permitindo o acesso não autorizado ao sistema. |
 
 
+### Senha Fortes
+**Usar senhas fortes e únicas** As senhas devem ser compostas por letras maiúsculas e minúsculas, números e símbolos, e ter no mínimo oito caracteres.
+
+### Atualizações
+**Atualizar os sistemas e os aplicativos**. As atualizações dos sistemas operacionais e dos aplicativos contêm correções de bugs e vulnerabilidades que podem ser exploradas por hackers.
+
+### Antivírus
+**Instalar um antivírus**. Um antivírus é um software que detecta e elimina programas maliciosos que podem infectar os dispositivos e comprometer os dados.
 
 
 
+
+# REFERÊNCIA
+White Hat, Black Hat, Gray Hat e Mais | AVG. Disponível em: Tipos de Hackers: White Hat, Black Hat, Gray Hat e Mais | AVG
+
+Saiba a diferença entre Hackers, Crackers, White Hat, Black Hat, Gray Hat, entre outros. | eGov UFSC. Disponível em: Saiba a diferença entre Hackers, Crackers, White Hat, Black Hat, Gray Hat, entre outros. | eGov UFSC. Acesso em ago. 2023
+
+Ethical Hacking: saiba o que é e que faz hacker ético! – Insights para te ajudar na carreira em tecnologia | Blog da Trybe. Disponível em: Ethical Hacking: o que é um hacker ético? | Claranet. Acesso em Mar. 2023
+
+Red team e Blue team entenda as diferenças desses profissionais. Disponível em: Red team e Blue team entenda as diferenças desses profissionais (acaditi.com.br). Acesso em jun. 2023
+
+Blue Team e Red Team: entenda o que são e qual sua importância. Disponível em: Blue Team e Red Team: entenda o que são e qual sua importância (daryus.com.br). Acesso em ago. 2023
+
+O que é cavalo de tróia, worm, malware, keylogger e spyware. Disponível em: O que é cavalo de tróia, worm, malware, keylogger e spyware ? - Onx Solutions. Acesso em jul. 2023
+
+Diferença entre: vírus, spam, spyware, worm, phishing, botnet, rootkit. Disponível em: Diferença entre: vírus, spam, spyware, worm, phishing, botnet, rootkit (oficinadanet.com.br). Acesso em set. 2023
+
+Segurança na rede e privacidade de dados: 8 dicas para se proteger e evitar golpes. Disponível em: conectaja.proteste.org.br/8-dicas-para-se-proteger-e-evitar-golpes/. Acesso em maio. 2023
+
+Fundamentos de Segurança da Informação: com Base na ISO 27001 e na ISO 27002 Capa comum – Edição padrão, 24 janeiro 2018
+
+Cibersegurança Para Leigos: Os Primeiros Passos Para o Sucesso! - Edição por Joseph Steinberg (Autor)
