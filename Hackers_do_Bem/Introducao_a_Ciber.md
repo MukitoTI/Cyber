@@ -22,3 +22,55 @@ Esses hackers têm intenções prejudiciais. Eles exploram vulnerabilidades para
 
 
 Além desses 3 tipos comuns que conhecemos acima, podemos encontrar outras categorias, como os Hacktivistas, os Script Kiddies, entre outros.
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+# Aula 2 
+ ### Introdução à ética
+  A crescente dependência da tecnologia e a constante evolução da internet trouxeram à tona a importância da ética na segurança da informação. À medida que informações sensíveis e valiosas são armazenadas, compartilhadas e processadas digitalmente, surge a necessidade de estabelecer diretrizes éticas sólidas para garantir que esses dados sejam protegidos de maneira responsável e respeitosa. 
+
+#### Ética
+  É a área de conhecimento que estuda o comportamento moral, visando compreender, criticar e justificar a moral de uma sociedade. Pode ser definida como um código moral que orienta o processo de tomada de decisão e comportamento da sociedade. 
+
+#### Hackers éticos
+  São indivíduos que, com profundo conhecimento em sistemas, programação e tecnologia, identificam as fraquezas nos sistemas de T.I das empresas e ajudam a fortalecer a segurança digital. 
+
+### Identificação de Vulnerabilidades
+  O Principal objetivo dos hakeres éticos é identificar e reportar vulnerabilidades de segurança antes que sejam exploradas por criminosos cibernéticos. Eles procuram brechas que poderiam permitir o acesso não autorizado, roubo de dados ou interrupção de serviços.
+
+### Teste de Penetração
+  Conduzem testes de penetração (pen tests) para avaliar a eficácia das defesas de segurança de um sistema. Eles simulam ataques reais para determinar como um invasor poderia potencialmente explorar vulnerabilidades e comprometer a segurança. 
+
+
+Através de seus conhecimentos é possível traçar defesas e estratégias contra ataques de spams, phishing, malwares e outros vírus que podem comprometer um sistema ou rede. 
+
+### (Hard skills e soft skills)
+Domina os conceitos de informática;
+**Habilidade em Programação;**
+**Habilidade em Banco de Dados (SQL);**
+**Conhecimento avançado em Linux;**
+**Conceito e técnicas de Criptografia;**
+**Habilidades de Engenharia Social;**
+**Arquitetura e funcionamento de aplicações web;**
+**Habilidade de rede de computadores;**
+**Proficiência em sistemas operacionais;**
+
+Incluem tbm **Comunicação**, **Solução de problemas**, **Criatividade**, **Habilidades analiticas** 
+
+
+
+## Red Team
+
+é a equipe de hackers que pode planejar e definir regras para testes de ciber ataque de uma empresa. Eles podem coordenar e executar estratégias de simulação de ataque a um sistema para encontrar e identificar possíveis falhas na segurança.
+
+
+
+
+
+
+
+  
