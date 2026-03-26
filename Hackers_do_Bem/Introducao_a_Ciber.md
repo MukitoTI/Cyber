@@ -65,12 +65,55 @@ Incluem tbm **Comunicação**, **Solução de problemas**, **Criatividade**, **H
 
 ## Red Team
 
-é a equipe de hackers que pode planejar e definir regras para testes de ciber ataque de uma empresa. Eles podem coordenar e executar estratégias de simulação de ataque a um sistema para encontrar e identificar possíveis falhas na segurança.
+É a equipe de hackers que pode planejar e definir regras para testes de ciber ataque de uma empresa. Eles podem coordenar e executar estratégias de simulação de ataque a um sistema para encontrar e identificar possíveis falhas na segurança.
+
+## Blue Team
+
+Se por um lado é possível manter em uma empresa uma equipe de hackers responsável por testar a segurança da rede, coordenando e simulando ataques aos sistemas de segurança, por outro também existe uma equipe especial responsável pode defender os sistemas de informação.
+
+se concentra em manter e melhorar a postura de segurança de informação, ao identificar falhas de segurança e corrigindo as possíveis brechas. 
+Confira na lista abaixo algumas atribuições dessa equipe de hackers.
+ * Monitoramento nos sistemas de segurança
+ * Detecção de possível sistemas corrompidos
+ * Ações de resposta e neutralização de Ciber ataques.
+
+## Forense
+No campo da investigação criminal, um analista forense é um profissional responsável por aplicar metodologias para encontrar pistas deixadas na cena de um crime. 
+Essas pistas podem ser pegadas, impressões digitais ou até mesmo o DNA encontrado no ambiente para que sirvam de análise de provas para encontrar um ou mais criminosos.
+
+#### O que faz?
+O profissional de cibersegurança forense também é conhecido por analisar "digitais" e "pegadas" deixadas por criminosos que invadiram um sistema de segurança ou base de dados, por exemplo. Este profissional aplica métodos específicos para identificas fraudes, invasões, sabotagens, entre outros crimes digitais.
+
+
+## GRC - governança, risco e conformidade
+
+A área de governança, risco e conformidade trabalha com métodos estruturados para alinhar a área de T.I e segurança da informação com as metas e objetivos traçados pela empresa, visando avaliar as áreas de risco. 
+
+Para que todas essas estratégias e equipes de trabalho estejam integradas para assegurar a cibersegurança de uma empresa, 
+é preciso que haja certas normas, que servem como requisitos regulatórios.
+
+## DevSecOps
+É a abreviação do termo em inglês "Development, Security e Operations", que significa "Desenvolvimento, Segurança e Operações". Esta área desenvolve softwares de segurança para agilizar o processo entre as equipes de trabalho de uma empresa. 
+
+Durante o processo de integração dos processos de desenvolvimento e operações, visando garantir a segurança dos dados sigilosos de uma empresa, 
+é essencial a implementação de softwares específicos para cada função em uma companhia. 
+Esse trabalho em integração e automatização desses softwares de segurança é de responsabilidade da equipe de DevSEcOps. 
+
+
+## Virus
+É um software malicioso que pode ser projetado de diversas maneiras em um computador ou rede e se replica entre sistemas e arquivos, causando danos que podem afetar o funcionamento do computador ou o roubo de dados sigilosos de uma pessoa física ou empresa.
+
+Os vírus podem se espalhar em um computador através de várias maneiras,  como em anexos e e-mails falsos, downloads da internet ou em dispositivos removíveis. Existem, também, uma série de vírus que apresentam diferentes características e danos. 
+
+
+| **Virus de Arquivo** | Anexa-se a arquivos executáveis e se espalha quando esses são execultados. |
+|------------------|----------------------------------------------------------------------------|
+| **Virus de Macro** | Explora macros em aplicativos como processadores de texto e planilhas para se espalhar. |
+| **Virus de Boot**  | Infecta a área de inicialização de um disco rígido, tornando-se ativo quando o computador é inicializado.  |
+| **Worms** | Diferente de vírus, os worms não precisam se anexar a arquivos e podem se espalhar automaticamente pela rede. | 
+| **Trojans** | Disfarçados como software legítimo, os cavalos de Troia enganam os usuários para que os executem, permitindo o acesso não autorizado ao sistema. |
 
 
 
 
 
-
-
-  
