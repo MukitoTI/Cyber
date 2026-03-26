@@ -105,9 +105,9 @@ Esse trabalho em integração e automatização desses softwares de segurança �
 
 Os vírus podem se espalhar em um computador através de várias maneiras,  como em anexos e e-mails falsos, downloads da internet ou em dispositivos removíveis. Existem, também, uma série de vírus que apresentam diferentes características e danos. 
 
-
-| **Virus de Arquivo** | Anexa-se a arquivos executáveis e se espalha quando esses são execultados. |
+| Tipo | Descrição |
 |------------------|----------------------------------------------------------------------------|
+| **Virus de Arquivo** | Anexa-se a arquivos executáveis e se espalha quando esses são execultados. |
 | **Virus de Macro** | Explora macros em aplicativos como processadores de texto e planilhas para se espalhar. |
 | **Virus de Boot**  | Infecta a área de inicialização de um disco rígido, tornando-se ativo quando o computador é inicializado.  |
 | **Worms** | Diferente de vírus, os worms não precisam se anexar a arquivos e podem se espalhar automaticamente pela rede. | 
