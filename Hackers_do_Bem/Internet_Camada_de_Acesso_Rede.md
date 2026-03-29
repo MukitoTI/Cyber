@@ -142,13 +142,17 @@ profissional da área de segurança da informação.
 Por isso será aprofundado mais tecnicamente em
 diversos pontos que foram visitados nesse módulo
 
+### Capitulando
+Este foi um módulo introdutório, no qual você aprendeu um conteúdo básico sobre redes de computadores. Nos próximos módulos, você terá um aprofundamento técnico em cada uma das camadas que compõem uma rede de computador, adquirindo um conhecimento essencial para se tornar um hacker do bem. 
 
+### Referências
+KUROSE, J.F. Redes de computadores e a internet: uma abordagem top-down. 6.ed. São Paulo: Pearson, 2014.
 
+MITNICK, K.; SIMON, W. L. A arte de enganar. São Paulo: Pearson Universidades, 2003.
 
+MORAES, A. F de. Redes sem fio: instalação, configuração e segurança – fundamentos. São José dos Campos: Érica, 2010.
 
-
-
-
+TANENBAUM, A.; FEAMSTER, N.; WETHERALL, D. Redes de computadores. 6. ed. São Paulo: Pearson / Porto Alegre: Bookman, 2021. 600 p.
 
 
 
