@@ -49,8 +49,19 @@ RFC 4251 - SSH <br>
  * 192.168.0.0   -  192.165.255.255 (192.168/16 prefix) <br>
 
 
+<img width="1280" height="502" alt="image" src="https://github.com/user-attachments/assets/e6ecba9c-b4bc-487e-a35d-569d96ec8979" />
 
+<br>
+<br>
 
+| IP PRIVADO | IP PÚBLICO |
+| :--- | :--- |
+| LANs | WANs |
+| Usado internamente, endereço pode repetir em outras redes locais | Globalmente único |
+| Atribuído pelo adm. de rede local | Atribuído pelo provedor de internet (a IANA controla distribuição global) |
+| Gratuito | Tem custo |
+| Não esgota pois pode ser repetido em outras LANs | Esgotado |
+| `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16` | `1.0.0.0` a `223.255.255.255` |
 
 
 
