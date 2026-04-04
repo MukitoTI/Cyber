@@ -39,4 +39,32 @@ Abaixo estão os intervalos padrão para cada classe:
   1. **Endereço Privado**: Além de ser Classe C, o IP 192.168.5.78 está dentro da faixa de **IPs privados** (`192.168.0.0` a `192.168.255.255`). Isso significa que ele é usado em redes locais (como em casas ou empresas) e não é roteável diretamente na internet.
   2. **A Classe "Morreu" (CIDR)**: Embora ainda seja um conceito fundamental em provas e certificações, na prática moderna utilizamos o **CIDR** ***(Classless Inter-Domain Routing)***. No CIDR, a máscara de rede define o tamanho da rede, independentemente da classe original do IP. No caso de uma rede doméstica comum, esse IP usaria a máscara `/24`.
 
+Em uma sub-rede com máscara **/24**, são possíveis **254 hosts utilizáveis**.
+
+Para chegar a esse número, utilizamos um cálculo baseado nos bits de endereço IPv4 (que possui 32 bits no total).
+
+------------------------------------------------------
+**O Cálculo Passo a Passo**
+1. **Identificação dos bits de host**: A máscara `/24` indica que os primeiros 24 bits são para a rede. Sobram 8 bits para os hosts ($32 - 24 = 8$).
+2. **Cálculo da capacidade total**: Com 8 bits, o número total de combinações é $2^8 = 256$.
+3. **Subtração dos endereços reservados**: De acordo com o padrão TCP/IP, devemos subtrair 2 endereços que não podem ser atribuídos a dispositivos:
+  * **Endereço de Rede**: O primeiro endereço (ex: 192.168.1.0).
+  * **Endereço de Broadcast**: O último endereço (ex: 192.168.1.255).
+
+A fórmula padrão é:
+ <img width="341" height="107" alt="image" src="https://github.com/user-attachments/assets/b8390b92-5c7d-487e-af1c-577e6527be9d" />
+
+**Resumo da Máscara /24**
+
+| Característica | Valor | 
+| :--- | :--- | 
+| Máscara em Decimal, | `255.255.255.0` | 
+| Total de Endereços, | 256 | 
+| IPs de Host (Úteis), | **254** | 
+| Classe Original,| Classe C | 
+
+
+
+
+
 
