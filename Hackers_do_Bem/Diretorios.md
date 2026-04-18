@@ -40,7 +40,8 @@ Além da organização de pastas e arquivos, os diretórios podem ser muito úte
   5. **Tracert** - Diagnóstico de caminho percorrido pela rede
   6. **Systeminfo** - informações do sistema(Mem., CPU, Versão)
   7. **Chkdsk** - verificação e reparo do disco
-  8. **Sfc** - verifica e repara arquivos de sistemas protegidos  
+  8. **Sfc** - verifica e repara arquivos de sistemas protegidos
+  9. **Sfc /?** - Ver todos os comandos 
 
 
 
