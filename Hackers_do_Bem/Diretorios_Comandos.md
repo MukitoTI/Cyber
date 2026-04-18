@@ -43,6 +43,28 @@ Além da organização de pastas e arquivos, os diretórios podem ser muito úte
   8. **Sfc** - verifica e repara arquivos de sistemas protegidos
   9. **Sfc /?** - Ver todos os comandos 
 
+## Alguns Atalhos Windows
+
+ * **tab** - Alterna ou navega pela seleção da tela
+ * **Win** - Windows Abre o menu
+ * **Ctrl** - Control - Combinações
+ * **Shift** - Maiuscula/ Minuscula da digitação 
+ * **Alt**  - Alt - Combinações
+
+ * **Alt + tab** - Alterna a Janela 
+ * **Ctrl + A** - Seleção Tudo "all"
+ * **Ctrl + Z** - "Volta/Desfaz"
+ * **Ctrl + T** - "Nova Aba"
+ * **Alt + F4** - "Sai eu fecha a Janela"
+ * **Ctrl + W** - "Fecha a Aba ou o Guia"
+
+ * **Win + E** - Menu do Browser
+ * **Win + R** - Executar
+ * **Win + D** - Minimiza tudo
+ * **Win + Setas** - seve para Organizar Janelas
+
+ * **Ctrl + Shift + Esc** - Gerenciador de tarefas
+ * **Ctrl + Alt + Del** - Tela de Segurança*
 
 
   
