@@ -13,3 +13,20 @@ A interface gráfica do usuário pode ser dividida por elementos visuais (ícone
 dispositivos de entrada (mouse, teclado, telas); 
 menus e barras de ferramentas; entre outros elementos.  
 
+
+
+####  Estrutura de diretórios
+Alguns comandos
+
+  * **raiz (/)**: diretório primário no sistema de arquivos do Linux
+  * **/boot (inicialização)**: Armazena os arquivos necessários para a inicialização do sistema
+  * **/home (pasta do usuário)**: diretório pessoal para cada usuário armazenar seus próprios arquivos e configurações.
+  * **/root (usuário root)**: pasta pessoal do usuário root, o superusuário com privilégios administrativos.
+
+
+  * **bin**  - Diretório bin (binaries, binários) - pasta onde encontrar-se os executáveis utilizados pelos usuários. Ex.: ls, cp, apt.
+  * **sbin** - Diretório sbin (system binaries) - pasta onde estão os executáveis de sistema, como: ip,route, fdisk, useradd.
+  * **lib** - Diretório lib (Library, biblioteca) - onde encontra-se diversos arquivos como scripts utilizados por vários programas
+  * **dev** - Diretório dev (Devices, dispositivos) - diretório onde ficam as representações de arquivos que possibilitam acesso aos dispositivos (HD, memória,seriais)
+    * /dev/sda1 - /de
+
