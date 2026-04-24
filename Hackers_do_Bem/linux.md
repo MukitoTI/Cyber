@@ -30,6 +30,14 @@ Alguns comandos
   * **dev** - Diretório dev (Devices, dispositivos) - diretório onde ficam as representações de arquivos que possibilitam acesso aos dispositivos (HD, memória, seriais)
     * /dev/sda1 - /de
 
+  * **pwd** (print work directory) - imprime caminho
+  * **cat** (concatenar) ou imprimie arquivo
+  * **sudo** (super user do) - elevação de privilegios
+  * **ip a** (ip address) exibe endereços
+  * **top / btop** (Gerenciador de tarefas)
+  * **df -h**
+  * **grep**
+
 
 # **SO**
 Sistemas de Arquivos com funções para atender a demanda de diferentes sistemas!! 
