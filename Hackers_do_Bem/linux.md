@@ -67,59 +67,59 @@ Alguns itens que iremos Avaliar
 # File Systems
 
 ## EXT4 - Extended File System 4
-**Integridade**: Journaling / fsck
-**Criptografia**: Sim
-**Compactação**: Não
-**Snapshots**: Não
-**Permissões**: Sim
-**Limites**: Arquivo de 16TB / Partição
-**EB Outros recursos**: Compatibilidade Windows/macOS, cotas em disco,
+ * **Integridade**: Journaling / fsck
+ * **Criptografia**: Sim
+ * **Compactação**: Não
+ * **Snapshots**: Não
+ * **Permissões**: Sim
+ * **Limites**: Arquivo de 16TB / Partição
+ * **EB Outros recursos**: Compatibilidade Windows/macOS, cotas em disco,
 estabilidade e velocidade
 
 ## Btrfs - B-Tree File System
-**Integridade**: Copia em Gravação (CoW) / auto reparo
-**Criptografia**: Sim
-**Compactação**: Sim
-**Snapshots**: Sim
-**Permissões**: Sim
-**Limites**: Arquivo de 16EB / Partição 16EB
-**Outros recursos**: Redimensionamento de volume, RAID, Backup Incremental,
+ * **Integridade**: Copia em Gravação (CoW) / auto reparo
+ * **Criptografia**: Sim
+ * **Compactação**: Sim
+ * **Snapshots**: Sim
+ * **Permissões**: Sim
+ * **Limites**: Arquivo de 16EB / Partição 16EB
+ * **Outros recursos**: Redimensionamento de volume, RAID, Backup Incremental,
 Desduplicação de dados
 
 ## JFS - Journaled File System
-**Integridade**: Journaling
-**Criptografia**: Não
-**Compactação**: Não
-**Snapshots**: Não
-**Permissões**: Sim
-**Limites**: Arquivo de 4 PB / Partição 32 PB
+ * **Integridade**: Journaling
+ * **Criptografia**: Não
+ * **Compactação**: Não
+ * **Snapshots**: Não
+ * **Permissões**: Sim
+ * **Limites**: Arquivo de 4 PB / Partição 32 PB
 
 ## XFS - High Performace Scalable File System
-**Integridade** Journaling
-**Criptografia**: Não
-**Compactação**: Não
-**Snapshots**: Não
-**Permissões**: Sim
-**Limites**: Arquivo de 8 EB / Partição 16 EB
-**Outros recursos**: aumentar o tamanho,
+ * **Integridade** Journaling
+ * **Criptografia**: Não
+ * **Compactação**: Não
+ * **Snapshots**: Não
+ * **Permissões**: Sim
+ * **Limites**: Arquivo de 8 EB / Partição 16 EB
+ * **Outros recursos**: aumentar o tamanho,
 cotas, leitura e gravação paralela
 
 ## ReiserFS - Desuso
-**Integridade**: Journaling / fsck
-**Criptografia**: Não
-**Compactação**: Não
-**Snapshots**: Não
-**Permissões**: Sim
-**Limites**: Arquivo de 8 TB / Partição 16 TB
+ * **Integridade**: Journaling / fsck
+ * **Criptografia**: Não
+ * **Compactação**: Não
+ * **Snapshots**: Não
+ * **Permissões**: Sim
+ * **Limites**: Arquivo de 8 TB / Partição 16 TB
 
 
 ## ZFS 
-**Integridade**: CoW Checksum / autorreparo
-**Criptografia**: Sim
-**Compactação**: Sim
-**Snapshots**: Sim
-**Permissões**: Sim
-**Limites**: Arquivo de 16 EB / Partição 256 quadrilhões de zettabyte
-**Outros recursos**: RAID-Z, Desduplicação de dados
+ * **Integridade**: CoW Checksum / autorreparo
+ * **Criptografia**: Sim
+ * **Compactação**: Sim
+ * **Snapshots**: Sim
+ * **Permissões**: Sim
+ * **Limites**: Arquivo de 16 EB / Partição 256 quadrilhões de zettabyte
+ * **Outros recursos**: RAID-Z, Desduplicação de dados
 
 
