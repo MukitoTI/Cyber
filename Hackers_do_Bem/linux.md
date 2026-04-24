@@ -123,3 +123,23 @@ cotas, leitura e gravação paralela
  * **Outros recursos**: RAID-Z, Desduplicação de dados
 
 
+
+<img width="1003" height="519" alt="image" src="https://github.com/user-attachments/assets/50543e17-ae4e-45bc-bb76-6815d170ac5f" />
+
+
+<br>
+<img width="972" height="562" alt="image" src="https://github.com/user-attachments/assets/36962ec3-0550-4e9e-9e9b-6a7d3f79ead0" />
+<img width="828" height="464" alt="image" src="https://github.com/user-attachments/assets/ef24e1cd-d20e-4979-9215-12bc4f261aa4" />
+<img width="811" height="514" alt="image" src="https://github.com/user-attachments/assets/1264cfed-6c92-4de8-8c95-d9f8793f2594" />
+<img width="826" height="488" alt="image" src="https://github.com/user-attachments/assets/ca0753b3-618a-4182-b78a-483aa745722c" />
+<img width="792" height="503" alt="image" src="https://github.com/user-attachments/assets/78ad6e92-bd75-431d-80cf-651f23e3d366" />
+
+<br>
+<img width="797" height="694" alt="image" src="https://github.com/user-attachments/assets/52157543-6038-46e3-b85d-899f767a1385" />
+
+## Chgrp/chown
+<img width="1038" height="220" alt="image" src="https://github.com/user-attachments/assets/ab00eb40-ccee-4f45-a8a1-4db0fdb1643d" />
+
+
+
+
