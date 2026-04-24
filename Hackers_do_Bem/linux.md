@@ -25,8 +25,42 @@ Alguns comandos
 
 
   * **bin**  - Diretório bin (binaries, binários) - pasta onde encontrar-se os executáveis utilizados pelos usuários. Ex.: ls, cp, apt.
-  * **sbin** - Diretório sbin (system binaries) - pasta onde estão os executáveis de sistema, como: ip,route, fdisk, useradd.
+  * **sbin** - Diretório sbin (system binaries) - pasta onde estão os executáveis de sistema, como: ip, route, fdisk, useradd.
   * **lib** - Diretório lib (Library, biblioteca) - onde encontra-se diversos arquivos como scripts utilizados por vários programas
-  * **dev** - Diretório dev (Devices, dispositivos) - diretório onde ficam as representações de arquivos que possibilitam acesso aos dispositivos (HD, memória,seriais)
+  * **dev** - Diretório dev (Devices, dispositivos) - diretório onde ficam as representações de arquivos que possibilitam acesso aos dispositivos (HD, memória, seriais)
     * /dev/sda1 - /de
+
+
+# **SO**
+Sistemas de Arquivos com funções para atender a demanda de diferentes sistemas!! 
+
+Alguns itens que iremos Avaliar
+ * **Integridade**
+ * **Criptografia**
+ * **Compactação**
+ * **Snapshots**
+ * **Permissões**
+ * **Limites**
+ * **Outros recursos**
+
+# File Systems
+
+## EXT4 - Extended File System 4
+**Integridade**: Journaling / fsck
+
+## Btrfs - B-Tree File System
+**Integridade**: Copia em Gravação (CoW) / auto reparo
+
+## JFS - Journaled File System
+**Integridade**: Journaling
+
+## XFS - High Performace Scalable File System
+**Integridade** Journaling
+
+## ReiserFS - Desuso
+**Integridade**: Journaling / fsck
+
+## ZFS 
+**Integridade**: CoW Checksum / auto reparo
+
 
