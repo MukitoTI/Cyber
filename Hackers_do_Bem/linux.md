@@ -30,13 +30,26 @@ Alguns comandos
   * **dev** - Diretório dev (Devices, dispositivos) - diretório onde ficam as representações de arquivos que possibilitam acesso aos dispositivos (HD, memória, seriais)
     * /dev/sda1 - /de
 
-  * **pwd** (print work directory) - imprime caminho
-  * **cat** (concatenar) ou imprimie arquivo
-  * **sudo** (super user do) - elevação de privilegios
-  * **ip a** (ip address) exibe endereços
-  * **top / btop** (Gerenciador de tarefas)
-  * **df -h**
-  * **grep**
+## Comandos Linux Manipulação de Arquivos 
+ * **ls** (list - listar)
+ * **clear** (limpar)
+ * **cd** (change directory - mudar diretório)
+ * **mkdir** (make directory - cria diretório)
+ * **nano** (editor de texto)
+ * **mv** (move - mover ou renomear)
+ * **cp** (copy - copiar)
+ * **rm** (remove - remover)
+
+<br>
+
+ * **pwd** (print work directory) - imprime caminho
+ * **cat** (concatenar) ou imprimie arquivo
+ * **sudo** (super user do) - elevação de privilegios
+ * **ip a** (ip address) exibe endereços
+ * **top / btop** (Gerenciador de tarefas)
+ * **df -h**
+ * **grep**
+
 
 
 # **SO**
@@ -55,20 +68,58 @@ Alguns itens que iremos Avaliar
 
 ## EXT4 - Extended File System 4
 **Integridade**: Journaling / fsck
+**Criptografia**: Sim
+**Compactação**: Não
+**Snapshots**: Não
+**Permissões**: Sim
+**Limites**: Arquivo de 16TB / Partição
+**EB Outros recursos**: Compatibilidade Windows/macOS, cotas em disco,
+estabilidade e velocidade
 
 ## Btrfs - B-Tree File System
 **Integridade**: Copia em Gravação (CoW) / auto reparo
+**Criptografia**: Sim
+**Compactação**: Sim
+**Snapshots**: Sim
+**Permissões**: Sim
+**Limites**: Arquivo de 16EB / Partição 16EB
+**Outros recursos**: Redimensionamento de volume, RAID, Backup Incremental,
+Desduplicação de dados
 
 ## JFS - Journaled File System
 **Integridade**: Journaling
+**Criptografia**: Não
+**Compactação**: Não
+**Snapshots**: Não
+**Permissões**: Sim
+**Limites**: Arquivo de 4 PB / Partição 32 PB
 
 ## XFS - High Performace Scalable File System
 **Integridade** Journaling
+**Criptografia**: Não
+**Compactação**: Não
+**Snapshots**: Não
+**Permissões**: Sim
+**Limites**: Arquivo de 8 EB / Partição 16 EB
+**Outros recursos**: aumentar o tamanho,
+cotas, leitura e gravação paralela
 
 ## ReiserFS - Desuso
 **Integridade**: Journaling / fsck
+**Criptografia**: Não
+**Compactação**: Não
+**Snapshots**: Não
+**Permissões**: Sim
+**Limites**: Arquivo de 8 TB / Partição 16 TB
+
 
 ## ZFS 
-**Integridade**: CoW Checksum / auto reparo
+**Integridade**: CoW Checksum / autorreparo
+**Criptografia**: Sim
+**Compactação**: Sim
+**Snapshots**: Sim
+**Permissões**: Sim
+**Limites**: Arquivo de 16 EB / Partição 256 quadrilhões de zettabyte
+**Outros recursos**: RAID-Z, Desduplicação de dados
 
 
