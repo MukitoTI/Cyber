@@ -189,6 +189,10 @@ Tipos
  * Grupo [group] (g)
  * Outros [others] (o)
 
+### ante
+ * (d) Diretório
+ * (-) Arquivo
+ * (l) link
 <br>
 
 <img width="1003" height="519" alt="image" src="https://github.com/user-attachments/assets/50543e17-ae4e-45bc-bb76-6815d170ac5f" />
