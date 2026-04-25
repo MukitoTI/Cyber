@@ -58,6 +58,10 @@ useradd --help (printa os comandos)
 ```
 sudo useradd -m "Nome"
 ```
+Cria Senha
+```
+sudo passwd "Nome"
+```
 se vc for Adm o sistema vai pedir a senha de ADM
 
 ae depois vc confere se foi adicionado 
@@ -74,6 +78,18 @@ Redigite a nova senha:
 
 sudo adduser
 ```
+
+Comandos para usuarios<br>
+Adicione o usuario ao grupo sudo:
+```
+usermod -a -G sudo "nome"
+```
+Altere o shell do usuário:
+```
+chsh -s /bin/bash "nome"
+```
+
+
 
 
 
