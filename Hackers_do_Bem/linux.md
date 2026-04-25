@@ -55,6 +55,11 @@ Alguns comandos
 useradd --help (printa os comandos)
 
 ### Usuario
+Existem alguns tipos de usuarios
+- Sistema
+- Humano
+  * root (administrador)
+  * Usuário Básico 
 ```
 sudo useradd -m "Nome"
 ```
@@ -78,6 +83,10 @@ Redigite a nova senha:
 
 sudo adduser
 ```
+Tambem vimos Grupos
+- sudo
+- Grupo com nome de usuario
+- E nosso grupo 
 
 Comandos para usuarios<br>
 Adicione o usuario ao grupo sudo:
