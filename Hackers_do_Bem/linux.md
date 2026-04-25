@@ -65,6 +65,16 @@ ae depois vc confere se foi adicionado
 nano /etc/passwd
 ```
 
+<br>
+```
+sudo nano /etc/shadow
+sudo passwd "nome"
+Nova senha: 
+Redigite a nova senha:
+
+senha atualizada com sucesso 
+sudo adduser
+```
 
 
 
