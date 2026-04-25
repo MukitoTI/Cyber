@@ -51,6 +51,22 @@ Alguns comandos
  * **grep**
 
 
+# Grupos - Usuarios - Permissões
+useradd --help (printa os comandos)
+
+### Usuario
+```
+sudo useradd -m "Nome"
+```
+se vc for Adm o sistema vai pedir a senha de ADM
+
+ae depois vc confere se foi adicionado 
+```linux
+nano /etc/passwd
+```
+
+
+
 
 # **SO**
 Sistemas de Arquivos com funções para atender a demanda de diferentes sistemas!! 
