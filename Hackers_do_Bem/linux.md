@@ -171,8 +171,18 @@ cotas, leitura e gravação paralela
  * **Permissões**: Sim
  * **Limites**: Arquivo de 16 EB / Partição 256 quadrilhões de zettabyte
  * **Outros recursos**: RAID-Z, Desduplicação de dados
+<br>
 
+# Permissões
+Tipos
+* **Leitura**([R]ead)
+  >Consegue **lista e ler** o arquivo/pasta
+* **Escrita**([W]rite)
+  >Consegue **alterar e apagar** o arquivo/pasta
+* **Execução**(e[X]ecute)
+  >Consegue **executar e acessar** o arquivo/pasta
 
+<br>
 
 <img width="1003" height="519" alt="image" src="https://github.com/user-attachments/assets/50543e17-ae4e-45bc-bb76-6815d170ac5f" />
 
