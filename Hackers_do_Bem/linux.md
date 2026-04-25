@@ -64,15 +64,14 @@ ae depois vc confere se foi adicionado
 ```linux
 nano /etc/passwd
 ```
-
 <br>
-```
+
+```linux
 sudo nano /etc/shadow
-sudo passwd "nome"
+sudo passwd (nome)
 Nova senha: 
 Redigite a nova senha:
 
-senha atualizada com sucesso 
 sudo adduser
 ```
 
