@@ -232,3 +232,23 @@ Tipos
  * Comando ./configure
  * Comando make
  * Comando make install ou checkinstall(ubuntu)
+
+
+
+
+# Referencia
+
+* A história do linux. Disponível em: https://www.youtube.com/watch?v=uRV0c5SFIPk Acesso em 09 out. 2023
+* Compilando arquivo fonte. Disponível em: https://www.youtube.com/watch?v=9h7pvHt4dDQ Acesso em 09 out. 2023
+* Linux Filesystem. Disponível em: https://opensource.com/life/16/10/introduction-linux-filesystems Acesso em 09 out. 2023
+* Diferença entre interfaces gráficas no linux. Disponível em:
+* https://www.youtube.com/watch?v=bHI7xK6bjHw Acesso em 09 out. 2023
+* Usuário em linux. Disponível em: https://www.vivaolinux.com.br/artigo/Os-usuarios-do-Linux?pagina=1 Acesso em 09 out. 2023
+* Flatpak Disponível em: https://flatpak.org Acesso em 09 out. 2023
+* Estrutura de Diretórios. Disponível em: https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html Acesso em 09 out. 2023
+* Comandos em Linux. Disponível em: https://phoenixnap.com/kb/linux-commands Acesso em 09 out. 2023
+* Permissões em Linux. Disponível em: https://www.youtube.com/watch?v=sq6pd18X63Q Acesso em 09 out. 2023
+
+
+
+<br>
