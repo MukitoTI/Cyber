@@ -213,4 +213,22 @@ Tipos
 
 
 
+<br>
 
+---
+
+## Tipos de Instalações
+* Codigo fonte
+* Pacote Pre-Compilados
+* Gerenciadores de Pacote
+* Gerenciador de Pacote Universais
+* AppImage
+
+
+
+### Codigo fonte
+ * Instalação:
+ * Geralmente necessário extrair
+ * Comando ./configure
+ * Comando make
+ * Comando make install ou checkinstall(ubuntu)
