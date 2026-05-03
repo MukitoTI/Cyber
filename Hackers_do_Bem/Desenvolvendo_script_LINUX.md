@@ -68,8 +68,15 @@ echo "Diretorio criado e arquivo copiado!"
 
 ```
 
+### renomeando.txt
+```
+#! /bin/bash
 
-
+echo "Listando conteudo e diretorio e renomenadno um arquivo "
+ls novo_diretorio
+mv arquivo.txt novo_arquivo.txt
+echo "Arquivo renomeado"
+```
 
 
 
