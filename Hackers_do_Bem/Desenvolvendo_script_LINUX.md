@@ -73,11 +73,21 @@ echo "Diretorio criado e arquivo copiado!"
 #! /bin/bash
 
 echo "Listando conteudo e diretorio e renomenadno um arquivo "
-ls novo_diretorio
+ls novo_diretorio (Qualquer_novo)
 mv arquivo.txt novo_arquivo.txt
 echo "Arquivo renomeado"
 ```
 
+
+### remocao.txt
+```
+#! /bin/bash
+
+echo "Removendo um arquivo e executando um comando externo... "
+rm novo_arquivo.txt
+resultado=$(ls)
+echo "Conteudo do diretorio: $resultado"
+```
 
 
 
