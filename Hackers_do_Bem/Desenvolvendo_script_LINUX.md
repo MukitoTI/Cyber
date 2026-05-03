@@ -53,6 +53,20 @@ else
 fi
 ```
 
+---
+
+#### Script.txt
+
+```
+#! /bin/bash
+
+echo "Criando um diretorio e copiando um arquivo ..."
+
+mkdir Qualquer_novo
+cp arquivo.txt Qualquer_novo
+echo "Diretorio criado e arquivo copiado!" 
+
+```
 
 
 
