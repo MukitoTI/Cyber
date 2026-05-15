@@ -28,7 +28,7 @@ multiprotocolo para realização de **Testes de Estress**
 
 
 no PenTest.
-
+```
 $ t50 192.168.1.1 --protocol t50 --flood
 
 T50 Experimental Mixed Packet Injector Tool v5.8.7b
@@ -38,3 +38,4 @@ Maintained by Frederico Lamberti Pissarra <fredericopissarra@gmail.com>
 
 [INFO] PID=14919
 [INFO] t50 5.8.7b successfully launched at Tua Jan 12 10:08:56   2004
+```
